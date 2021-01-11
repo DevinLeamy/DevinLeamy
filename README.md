@@ -4,7 +4,7 @@ I'm a 17 year old student from Calgary, Alberta that has a passion for programmi
 📈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solving problems with code is what makes me tick and, consequently, it's a skill I am always finding ways to improve. <br/> 
 🚡&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aside from programming, I enjoy hiking, skiing (the rocky mountains are pretty good for that...), running, and weight lifting. <br/> <br/>
 ***Note:***<br/>
-I'm currently looking for a summer internship. <br/>
+I'm currently looking for a summer 2021 SWE internship. <br/>
 If you're an employer, reach out! (I'm your guy) 👍 <br/>
 
 
