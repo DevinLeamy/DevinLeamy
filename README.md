@@ -1,19 +1,14 @@
-### Hi there 👋
+### Hi, I'm Devin 👋
+I'm a 17 year old student from Calgary, Alberta 🏔 that has a passion for programming. <br/> <br/>
+🎓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm currently studying Computer Science at the University of Waterloo and will be graduating with the class of 2025. <br/>
+📈&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solving problems with code is what makes me tick and, consequently, it is the skill I am always looking to improve. <br/> 
+🚡&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aside from programming, I enjoy hiking, skiing (the rocky mountains are pretty good for that...), running, and weight lifting. <br/> <br/>
 
-<!--<img align="left" alt="DevinLeamy's Github Stats" 
-src="https://github-readme-stats.vercel.app/api?username=DevinLeamy&show_icons=true&hide_border=true"/>-->
+***Note:***<br/>
+I'm currently looking for a summer internship. <br/>
+If you're an employer, reach out! (I'm your guy) 👍 <br/>
 
-<!--
-**DevinLeamy/DevinLeamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_And, for any web scrapers in the crowd:_ <br/>
+📞&nbsp;&nbsp;&nbsp;&nbsp;(+1 403-615-7302) <br/>
+📪&nbsp;&nbsp;&nbsp;&nbsp;devinleamy@gmail.com <br/>
