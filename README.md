@@ -1,3 +1,4 @@
+<!---
 ### Hi, I'm Devin 👋
 I'm an outgoing student from Calgary, Alberta with a passion for programming. <br/> <br/>
 🎓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm currently studying Computer Science at the University of Waterloo and will be graduating with the class of 2025. <br/>
@@ -5,7 +6,7 @@ I'm an outgoing student from Calgary, Alberta with a passion for programming. <b
 🚡&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aside from programming, I enjoy the great outdoors! <br/> <br/>
 
 
-<!---
+
 ***Note:***<br/>
 I'm currently looking for a summer 2021 SWE internship. <br/>
 If you're an employer, reach out! (I'm your guy) 👍 <br/>
