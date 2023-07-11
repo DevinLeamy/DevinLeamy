@@ -4,7 +4,7 @@ I'm a CS student at the University of Waterloo, from Canada 🇨🇦
 - I'm very passionate about software
 - I'm an open source contributor ([Bevy](https://github.com/bevyengine/bevy), [OpenPilot](https://github.com/commaai/openpilot), [VSCodeVim](https://github.com/VSCodeVim/Vim), etc.)
 - I love expressive type systems (Rust)
-- And I'm currently working with a bangin' team on [Biomes](https://biomes.gg), at [Global Illumination Inc.](https://ill.inc/), in NYC
+- And I'm currently working with a 🅱️angin' team on [Biomes](https://biomes.gg), at [Global Illumination Inc.](https://ill.inc/), in NYC
 
 ### Reach out!
 - I'm seeking Winter 2024 internship opportunities!
