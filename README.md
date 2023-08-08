@@ -7,7 +7,7 @@ I'm a CS student at the University of Waterloo, from Canada 🇨🇦
 - And I'm currently working with a 🅱️angin' team on [Biomes](https://biomes.gg), at [Global Illumination Inc.](https://ill.inc/), in NYC
 
 ### Reach out!
-- I'm seeking Winter 2024 internship opportunities!
+- I'm seeking Winter and Summer 2024 internship opportunities!
 
 ### Say...
 👾[Watch a younger me hack out a Pacman clone and earn my first copyright strike!](https://www.youtube.com/watch?v=qBWCuSID1rc&t=122s)
