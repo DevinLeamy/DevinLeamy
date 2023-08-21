@@ -1,8 +1,8 @@
 ## Hey, I'm Devin 👋
 
 I'm a CS student at the University of Waterloo, from Canada 🇨🇦
-- I'm very passionate about software
-- I'm an open source contributor ([Bevy](https://github.com/bevyengine/bevy), [OpenPilot](https://github.com/commaai/openpilot), [VSCodeVim](https://github.com/VSCodeVim/Vim), etc.)
+- Passionate about software
+- Open source contributor ([Bevy](https://github.com/bevyengine/bevy), [OpenPilot](https://github.com/commaai/openpilot), [VSCodeVim](https://github.com/VSCodeVim/Vim), etc.)
 - I enjoy expressive type systems (Rust)
 - And I'm currently working with a 🅱️angin' team on [Biomes](https://biomes.gg), at [Global Illumination Inc.](https://ill.inc/), in NYC
 
