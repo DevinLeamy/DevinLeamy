@@ -3,7 +3,7 @@
 I'm a CS student at the University of Waterloo, from Canada 🇨🇦
 - Passionate about software
 - Open source contributor ([Bevy](https://github.com/bevyengine/bevy), [OpenPilot](https://github.com/commaai/openpilot), [VSCodeVim](https://github.com/VSCodeVim/Vim), etc.)
-- I enjoy expressive type systems (Rust)
+- Rust evangelist.
 - Previously worked on [Biomes](https://biomes.gg) at [Global Illumination](https://ill.inc/), in NYC
 
 ### Say...
