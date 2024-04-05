@@ -4,7 +4,8 @@ I'm a CS student at the University of Waterloo, from Canada 🇨🇦
 - Passionate about software
 - Open source contributor ([Bevy](https://github.com/bevyengine/bevy), [OpenPilot](https://github.com/commaai/openpilot), [VSCodeVim](https://github.com/VSCodeVim/Vim))
 - Rust evangelist
-- Previously worked on [Biomes](https://biomes.gg) at [Global Illumination](https://ill.inc/), in NYC
+- Previously worked on [Biomes](https://biomes.gg) at [Global Illumination](https://ill.inc/).
+- Currently working on [Apache Mesos](https://github.com/apache/mesos) at X, in New York City.
 
 ### Say...
 
