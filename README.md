@@ -19,4 +19,4 @@ I'm a CS student at the University of Waterloo, from Canada 🇨🇦
 
 ### Contact
 
-- If you're building something cool (and/or Rusty...) and want to chat, feel free to hit me up!
+- If you're building something cool and want to chat, feel free to reach out!
