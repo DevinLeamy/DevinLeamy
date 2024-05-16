@@ -7,6 +7,7 @@ I'm a CS student at the University of Waterloo, from Canada 🇨🇦
 - Previously worked on [Biomes](https://biomes.gg) at [Global Illumination](https://ill.inc/) and [Apache Mesos](https://github.com/apache/mesos) at 𝕏, in New York City
 - Currently working on Snowflake's SQL Compiler in San Mateo, CA. 
 
+<!--
 ### Say...
 
 👾[Watch a younger me hack out a Pacman clone and earn my first copyright strike!](https://www.youtube.com/watch?v=qBWCuSID1rc&t=122s)
@@ -16,6 +17,8 @@ I'm a CS student at the University of Waterloo, from Canada 🇨🇦
 💼 [Or a resume in React...](https://github.com/DevinLeamy/Resume)
 <br/>
 🤔 [Or question why Amazon doesn't have an API for sending books to your Kindle](https://github.com/DevinLeamy/Captain-Book)
+
+-->
 
 ### Contact
 
