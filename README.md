@@ -3,9 +3,7 @@
 I'm a CS student at the University of Waterloo, from Canada 🇨🇦
 - Passionate about software
 - Open source contributor ([Bevy](https://github.com/bevyengine/bevy), [OpenPilot](https://github.com/commaai/openpilot), [VSCodeVim](https://github.com/VSCodeVim/Vim))
-- Rust evangelist
-- Previously worked on [Biomes](https://biomes.gg) at [Global Illumination](https://ill.inc/) and [Apache Mesos](https://github.com/apache/mesos) at 𝕏, in New York City
-- Currently working on Snowflake's SQL Compiler in San Mateo, CA. 
+- Previously worked on [Biomes](https://biomes.gg) at [Global Illumination](https://ill.inc/), [Apache Mesos](https://github.com/apache/mesos) at 𝕏 in New York City, and Snowflake's SQL Compiler in San Mateo, CA. 
 
 <!--
 ### Say...
